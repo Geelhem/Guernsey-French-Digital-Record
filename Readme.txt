@@ -1,4 +1,4 @@
-# Digital Archive for Guernsey French
+**Digital Archive for Guernsey French**
 
 This is a secondary school student lead programme by the Ladies College Guernsey in support of the Guernsey Language Commission
 
@@ -6,17 +6,16 @@ Welcome to the official repository for the Digital Archive of Guernsey French â€
 
 This repository serves as a collaborative platform for linguists, researchers, community members, and enthusiasts to contribute, share, and utilize resources. By digitizing and curating these materials, we aim to support language learning, promote cultural understanding, and facilitate academic studies. Join us in our endeavour to keep the Guernesiais or Guernsey French language alive for future generations.
 
-Objectives:
+**Objectives:**
 The objective is to digitally preserve a critically endangered language, which currently lacks a standardized spelling.
 The commission in charge of preserving the language has identified two priorities : 
 Priority 1 is to safeguard the language by recording native speakers of the language and creating a digital library of audio recordings.
 Priority 2 is to create a digital record of existing written work, by creating a digital library of bilingual texts.
 
-Requirements of this repository: 
+**Requirements of this repository:** 
     A.Data Extracted from the images and PDFs with https://github.com/Geelhem/OCR-import-tool-for-Digital-Record  should be converted to text files and output organised, so that files' names indicate whether the content of the files is in English (containing "eng" before the file extension) or the target language containing "gf" before the file extension)
     B. Digitisation must be done in line with copyright laws or with the express permission of authors.
    
-
 Our girls have they set up a contact email gf@ladiescollege.gg and a form https://forms.office.com/e/qtPAzwwP5z to fill out for  anyone who would like to submit audio recordings of people speaking Guernsey French.  
 
 Our students would also encourage anyone from the local Developersâ€™ Community or anyone working with the Language Models community or with coding skills to get in touch by email (above) or contribute to our GitHub project pages if you think you or know someone who can help. 
