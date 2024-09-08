@@ -2,6 +2,7 @@ How to sync
 
 https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md 
 
+git pull
 git add .
 git commit -m "my obsidian vault first commit"
 git branch -M main
