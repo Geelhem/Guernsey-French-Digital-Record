@@ -48,6 +48,6 @@ Using Obsidian and GitHub together provides a powerful and flexible solution for
 
 1. **Create a GitHub Account**: If you don’t already have one, sign up for a free account at GitHub.
 2. **Go to our Repository**: https://github.com/Geelhem/Guernsey-French-Digital-Record 
-3.  More info [[HERE]] 
+3. See how you can contribute [[3 -How to Contribute]]
 
 
