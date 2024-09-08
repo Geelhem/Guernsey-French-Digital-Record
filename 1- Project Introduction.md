@@ -1,5 +1,4 @@
 
-
 **Digital Archive for Guernsey French**
 
 This is a secondary school student-led program by the Ladies College Guernsey in support of the Guernsey Language Commission.
