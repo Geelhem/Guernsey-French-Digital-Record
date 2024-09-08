@@ -24,14 +24,28 @@
             "id": "a6418a5df4792310",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf"
+                "file": "Wiki Notes/Advanced - How to Sync Obsidian with Git Hub Public.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31d9bbe846812710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki Notes/Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c2bfbb6b9fb2adbb",
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
+                "file": "Wiki Notes/Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
+                "file": "Wiki Notes/Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf"
+                "file": "Wiki Notes/Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md"
               }
             }
           }
@@ -176,6 +190,9 @@
   },
   "active": "71bc0bc361415932",
   "lastOpenFiles": [
+    "Wiki Notes/Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
+    "Wiki Notes/Advanced - How to Sync Obsidian with Git Hub Public.md",
+    "Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
     "Test_Materials/TEXT",
     "Test_Materials/histouaires_guernésiaises/mont_crevelt_eng.pdf",
     "Test_Materials/histouaires_guernésiaises/fort_pezeries_eng.pdf",
@@ -187,11 +204,8 @@
     "Test_Materials/histouaires_guernésiaises/Lé désastre du Boreas pg 1 gf.jpg",
     "Test_Materials/histouaires_guernésiaises/guet_gf.pdf",
     "Test_Materials/histouaires_guernésiaises/guet_eng.pdf",
-    "Notes/How to Sync Obsidian with Git Hub Public.md",
     "Readme.txt",
     "Welcome.md",
-    "Notes",
-    "Template/Template - Titre - Title.md",
-    "Books"
+    "Template/Template - Titre - Title.md"
   ]
 }
