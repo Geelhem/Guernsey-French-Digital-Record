@@ -36,33 +36,18 @@ Using Obsidian and GitHub together provides a powerful and flexible solution for
 - **Creative Commons**: Encourage contributors to use Creative Commons licenses for their work. This ensures that the resources can be freely used, shared, and built upon by others.
 - **Crowdsourcing**: Leverage the power of crowdsourcing to gather a wide range of materials. Community members can contribute texts, audio recordings, and other resources, enriching the digital archive.
 
-## Getting Started to download the archive
-
-### Step 1: Set Up Obsidian
-
+## Getting Started : Consulting the archive 
+### On the web : 
+ https://github.com/Geelhem/Guernsey-French-Digital-Record 
+### In Obsidian
 1. **Download and Install Obsidian**: Go to the Obsidian website and download the application for your operating system.
-2. **Open Your Vault**: Launch Obsidian and open the folder containing your notes.
+2. Download  https://github.com/Geelhem/Guernsey-French-Digital-Record 
+33. *Open a Vault**: Launch Obsidian and open the folder you have downloaded with obsidian (unzip file first)
 
-### Step 2: Set Up GitHub
+### Step 2: using  GitHub
 
 1. **Create a GitHub Account**: If you don’t already have one, sign up for a free account at GitHub.
 2. **Go to our Repository**: https://github.com/Geelhem/Guernsey-French-Digital-Record 
 3.  More info [[HERE]] 
-
-### Step 3:  if you want to Sync Obsidian with GitHub (to Contribute)
-
-1. **Install the Obsidian Git Plugin**:
-    - Go to **Settings** > **Community plugins**.
-    - Click on **Browse** and search for “Obsidian Git”.
-    - Click **Install** and then **Enable** the plugin.
-2. **Configure the Plugin**:
-    - Go to **Settings** > **Obsidian Git**.
-    - Set up your GitHub repository URL.
-    - Configure the plugin settings according to your preferences.
-3. **Authenticate with GitHub**:
-    - Generate a personal access token on GitHub and paste it in the authentication field in Obsidian.
-4. **Sync Your Notes**:
-    - Manually commit and push changes by going to **Settings** > **Obsidian Git** and clicking on **Commit** and **Push**.
-    - Alternatively, enable auto-commit and auto-push to automate the process.
 
 

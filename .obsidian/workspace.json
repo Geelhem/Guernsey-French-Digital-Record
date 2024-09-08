@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
+                "file": "Wiki Notes for Contributors/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki Notes/2 - Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
+                "file": "Wiki Notes for Contributors/2 - Easy -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki Notes/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
+                "file": "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
+                "file": "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
+                "file": "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
+                "file": "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md"
+                "file": "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md"
               }
             }
           }
@@ -226,12 +226,12 @@
   },
   "active": "050e87e60c97295f",
   "lastOpenFiles": [
+    "3 -How to Contribute.md",
+    "Wiki Notes for Contributors/2 - Easy -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
+    "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
     "1- Project Introduction.md",
     "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md",
-    "3 -How to Contribute.md",
-    "Wiki Notes/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
-    "Wiki Notes/2 - Easier -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
-    "Wiki Notes/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
+    "Wiki Notes for Contributors/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
     "Welcome.md",
     "Textual Record/Test_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
     "Test_Materials/TEXT",

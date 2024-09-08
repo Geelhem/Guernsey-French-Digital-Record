@@ -2,6 +2,8 @@
 
 Welcome to the **Digital Archive for Guernsey French** project! This guide will help you get started with using Obsidian and opening a downloaded directory from GitHub on your computer.
 
+
+
 #### **1. Downloading the Repository from GitHub**
 
 1. **Navigate to the Repository**:
@@ -79,3 +81,6 @@ Welcome to the **Digital Archive for Guernsey French** project! This guide wil
     
     - Manually commit and push changes by going to **Settings** > **Obsidian Git** and clicking on **Commit** and **Push**.
     - Alternatively, enable auto-commit and auto-push to automate the process.
+
+
+
