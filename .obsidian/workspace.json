@@ -11,12 +11,18 @@
             "id": "31150a256a7b2cb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
-                "mode": "source",
-                "source": false
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
               }
+            }
+          },
+          {
+            "id": "abcd0b8353d38ffa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md"
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
               }
             }
           }
@@ -147,13 +153,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "71bc0bc361415932",
+  "active": "31150a256a7b2cb3",
   "lastOpenFiles": [
+    "Textual Record/Received_Materials/Scanned/Sermon On the Mount_Frederick_J_Jeremy/Notes.md",
+    "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
     "Textual Record/Bilingual Guernesiais Archive/Books/Book Example 1/Chapter_1_eng.md",
     "Wiki Notes for Contributors/Naming Conventions for the Guernsey French Digital Record.md",
     "2- Why Preserving Guernsey French with Modern Tech Tools, Obsidian and GitHub.md",
     "1- Project Introduction.md",
-    "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
     "Textual Record/Bilingual Guernesiais Archive/Books/Book Example 1/Chapitre_1_gf.md",
     "Textual Record/Received_Materials/histouaires_guernésiaises/Preface/Preface 2.jpg",
     "Textual Record/Received_Materials/histouaires_guernésiaises/Preface/Preface 1.jpg",
