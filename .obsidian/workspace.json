@@ -11,10 +11,18 @@
             "id": "31150a256a7b2cb3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_gf.pdf"
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
               }
+            }
+          },
+          {
+            "id": "abcd0b8353d38ffa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_gf.pdf",
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_gf.pdf",
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_gf.pdf"
+                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
               }
             }
           }
@@ -147,17 +155,7 @@
   },
   "active": "31150a256a7b2cb3",
   "lastOpenFiles": [
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_eng.pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/casquets_gf.pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (6).pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (5).pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (4).pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer.pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/La tragédie du Stella pg 2_gf.jpg",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/test/the stella_gf.pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/The Stella/La tragédie du Stella pg 1_gf.jpg",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/test/the stella_eng.pdf",
-    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/beetles invaded guernsey_gf.pdf",
+    "Textual Record/Received_Materials/Scanned/Sermon On the Mount_Frederick_J_Jeremy/Notes.md",
     "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
     "Textual Record/Bilingual Guernesiais Archive/Books/Book Example 1/Chapter_1_eng.md",
     "Wiki Notes for Contributors/Naming Conventions for the Guernsey French Digital Record.md",
@@ -173,9 +171,17 @@
     "Wiki Notes for Contributors/2 - Easy -Step-by-Step Guide to Sync Obsidian Notes with GitHub Using Obsidian Git Plugin.md",
     "Wiki Notes for Contributors/3 - Advanced - How to Sync Obsidian with Git Hub Public.md",
     "Welcome.md",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
+    "Test_Materials/TEXT",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/mont_crevelt_eng.pdf",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/fort_pezeries_eng.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/The tragedy of the Stella 1_eng.jpeg",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (1).pdf",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/La tragédie du Stella pg 3_gf.jpg",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/casquets.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/Lé désastre du Boreas pg 1 gf.jpg",
+    "Textual Record/Received_Materials/histouaires_guernésiaises/guet_gf.pdf",
     "Template/Template - Titre - Title.md"
   ]
 }
