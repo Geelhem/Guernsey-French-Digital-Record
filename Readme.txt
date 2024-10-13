@@ -23,5 +23,10 @@ Our students would also encourage anyone from the local Developers’ Community 
 https://github.com/Geelhem/OCR-import-tool-for-Digital-Record 
 https://github.com/Geelhem/Guernsey-French-Digital-Record
 
+Read More about the project :
+1- Introduction: https://github.com/Geelhem/Guernsey-French-Digital-Record/blob/main/1-%20Project%20Introduction.md 
+2 -Integrations with Technology https://github.com/Geelhem/Guernsey-French-Digital-Record/blob/main/2-%20Why%20Preserving%20Guernsey%20French%20with%20Modern%20Tech%20Tools%2C%20Obsidian%20and%20GitHub.md
+3 -How to contribute to the project https://github.com/Geelhem/Guernsey-French-Digital-Record/blob/main/3%20-How%20to%20Contribute.md
+
 Guilhem Chene 
 https://gg.linkedin.com/in/gchene 
