@@ -17,7 +17,7 @@ Priority 2 is to create a digital record of existing written work, by creating a
     A.Data Extracted from the images and PDFs with https://github.com/Geelhem/OCR-import-tool-for-Digital-Record  should be converted to text files and output organised, so that files' names indicate whether the content of the files is in English (containing "eng" before the file extension) or the target language containing "gf" before the file extension)
     B. Digitisation must be done in line with copyright laws or with the express permission of authors.
    
-Our girls have they set up a contact email gf@ladiescollege.gg and a form https://forms.office.com/e/qtPAzwwP5z to fill out for  anyone who would like to submit audio recordings of people speaking Guernsey French.  
+Our students have set up a contact email gf@ladiescollege.gg and a form https://forms.office.com/e/qtPAzwwP5z to fill out for  anyone who would like to submit audio recordings of people speaking Guernsey French.  
 
 Our students would also encourage anyone from the local Developers’ Community or anyone working with the Language Models community or with coding skills to get in touch by email (above) or contribute to our GitHub project pages if you think you or know someone who can help. 
 
