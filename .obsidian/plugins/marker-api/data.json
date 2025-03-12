@@ -7,7 +7,7 @@
   "writeMetadata": false,
   "movePDFtoFolder": false,
   "createAssetSubfolder": true,
-  "apiEndpoint": "selfhosted",
+  "apiEndpoint": "python-api",
   "apiKey": "",
   "langs": "en",
   "forceOCR": false,

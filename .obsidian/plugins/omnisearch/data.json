@@ -10,7 +10,7 @@
   "PDFIndexing": true,
   "officeIndexing": true,
   "imagesIndexing": true,
-  "aiImageIndexing": false,
+  "aiImageIndexing": true,
   "unsupportedFilesIndexing": "default",
   "splitCamelCase": false,
   "openInNewPane": false,

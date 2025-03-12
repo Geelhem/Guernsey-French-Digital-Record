@@ -3,5 +3,6 @@
   "github-sync",
   "text-extractor",
   "marker-api",
-  "omnisearch"
+  "omnisearch",
+  "ai-image-analyzer"
 ]
