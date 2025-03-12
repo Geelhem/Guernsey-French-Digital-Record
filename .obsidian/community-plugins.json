@@ -1,4 +1,8 @@
 [
   "colored-tags",
-  "github-sync"
+  "github-sync",
+  "text-extractor",
+  "marker-api",
+  "omnisearch",
+  "ai-image-analyzer"
 ]

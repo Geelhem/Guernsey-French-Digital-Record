@@ -2,5 +2,5 @@
   "remoteURL": "https://github.com/Geelhem/Guernsey-French-Digital-Record",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": false
 }

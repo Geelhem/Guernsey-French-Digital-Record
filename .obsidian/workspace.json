@@ -11,21 +11,40 @@
             "id": "31150a256a7b2cb3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
-              }
+                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/guet_eng.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "guet_eng"
             }
           },
           {
-            "id": "abcd0b8353d38ffa",
+            "id": "6d26f905e4c2204d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/fort_pezeries_eng.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fort_pezeries_eng"
+            }
+          },
+          {
+            "id": "f766704b6f9549ee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textual Record/Received_Materials/Scanned/Sermon On the Mount_Frederick_J_Jeremy/Sermon on mount_part1_Intro.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Sermon on mount_part1_Intro"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,8 +63,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,7 +82,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -68,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -91,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
+                "file": "Textual Record/ai_tests/1-Guernesiais Training Materials for AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +125,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-Guernesiais Training Materials for AI"
             }
           },
           {
@@ -108,10 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
+                "file": "Textual Record/ai_tests/1-Guernesiais Training Materials for AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-Guernesiais Training Materials for AI"
             }
           },
           {
@@ -121,8 +151,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,8 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png"
-              }
+                "file": "Textual Record/ai_tests/1-Guernesiais Training Materials for AI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-Guernesiais Training Materials for AI"
             }
           }
         ]
@@ -144,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,8 +193,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "31150a256a7b2cb3",
+  "active": "f766704b6f9549ee",
   "lastOpenFiles": [
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/wreck wine_gf_rotated.pdf",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/giant at vazon_eng.pdf",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/giant at vazon_eng_rotated.pdf",
+    "Textual Record/ai_tests/1-Guernesiais Training Materials for AI.md",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/fort_pezeries_eng.pdf",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/guet_eng.pdf",
+    "giant at vazon_eng.md",
+    "Pasted image 20250312094253.png",
+    "Pasted image 20250312093848.png",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/giant at vazon_gf.pdf",
+    "Textual Record/Received_Materials/Scanned/histouaires_guernésiaises/fort_pezeries_gf.pdf",
+    "Textual Record/Received_Materials/Scanned/Sarnia_cherie_gf.png",
     "Textual Record/Received_Materials/Scanned/Sermon On the Mount_Frederick_J_Jeremy/Notes.md",
     "Wiki Notes for Contributors/1 - Introduction Guide to Using Obsidian with Your GitHub Repository.md",
     "Textual Record/Bilingual Guernesiais Archive/Books/Book Example 1/Chapter_1_eng.md",
@@ -173,15 +225,9 @@
     "Welcome.md",
     "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (3).pdf",
     "Test_Materials/TEXT",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/mont_crevelt_eng.pdf",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/fort_pezeries_eng.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/The tragedy of the Stella 1_eng.jpeg",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer (1).pdf",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/Scanned from a Xerox Multifunction Printer.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/The Stella/La tragédie du Stella pg 3_gf.jpg",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/casquets.pdf",
     "Textual Record/Received_Materials/histouaires_guernésiaises/Lé désastre du Boreas pg 1 gf.jpg",
-    "Textual Record/Received_Materials/histouaires_guernésiaises/guet_gf.pdf",
     "Template/Template - Titre - Title.md"
   ]
 }
